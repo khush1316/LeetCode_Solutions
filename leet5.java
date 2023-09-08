@@ -1,3 +1,5 @@
+//UGLY NUMBER
+
 import java.util.Scanner;
 public class leet5 {
     public boolean isUgly(int n) {
